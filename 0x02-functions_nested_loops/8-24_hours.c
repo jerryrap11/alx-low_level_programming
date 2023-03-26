@@ -38,6 +38,7 @@ if (i == 2 && j > 3)
 }
 _putchar(i + '0');
 _putchar(j + '0');
+_putchar(':');
 _putchar(k + '0');
 _putchar(m + '0');
 _putchar('\n');
