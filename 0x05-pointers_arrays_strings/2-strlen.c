@@ -16,4 +16,4 @@ longi++;
 s++;
 }
 return (longi);
-} :
+"}/:"
