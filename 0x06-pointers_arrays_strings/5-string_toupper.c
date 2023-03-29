@@ -1,4 +1,4 @@
-/#include "main.h"
+#include "main.h"
 
 /**
 * string_toupper - changes all lowercase letters of a string
@@ -16,7 +16,7 @@ if ((*(s + count) >= 97) && (*(s + count) <= 122))
 
 *(s + count) = *(s + count) - 32;
 count++;
-count++;
 }
 return (s);
 }
+
